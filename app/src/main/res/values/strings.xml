@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">gps_and_net</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">GPepis</string>
+    <string name="hello_world">Bienvenido a la aplicación de prueba GPS ruta</string>
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="resume">Resumen</string>
+    <string name="pause">Pausa</string>
+
+</resources>
